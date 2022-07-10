@@ -21,10 +21,10 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="post1.html"} 
-if(x=="2"){xxx="post2.html"} 
-if(x=="3"){xxx="post3.html"} 
-if(x=="4"){xxx="post4.html"}a_to_ve[i].href="https://postgenz.blogspot.com/2022/07/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="the-top-5-auto-insurance-companies-for.html"} 
+if(x=="2"){xxx="6-best-car-insurance-for-college.html"} 
+if(x=="3"){xxx="the-best-time-to-buy-car.html"} 
+if(x=="4"){xxx="best-insurance-for-college-students.html"}a_to_ve[i].href="https://postgenz.blogspot.com/2022/07/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
